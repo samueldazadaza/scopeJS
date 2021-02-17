@@ -28,6 +28,6 @@ const anotherFunction = () => {
             console.log(i);
         }, 1000)
     }
-}
+};
 
 anotherFunction();
